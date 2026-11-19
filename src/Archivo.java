@@ -16,4 +16,8 @@ public class Archivo {
 	public void ordenarPalabras(String[] palabras) {
 		
 	}
+	
+	public void menu() {
+		
+	}
 }
