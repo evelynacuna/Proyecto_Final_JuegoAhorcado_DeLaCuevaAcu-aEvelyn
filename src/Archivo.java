@@ -12,4 +12,8 @@ public class Archivo {
 	public void borrarArchivo() {
 		
 	}
+	
+	public void ordenarPalabras(String[] palabras) {
+		
+	}
 }
