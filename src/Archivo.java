@@ -5,5 +5,7 @@ public class Archivo {
 		
 	}
 	
-	
+	public void llenarArchivo() {
+		
+	}
 }
