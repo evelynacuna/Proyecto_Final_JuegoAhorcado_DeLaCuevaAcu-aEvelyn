@@ -5,4 +5,9 @@ public class JuegoAhorcado {
 		
 		return null;
 	}
+	
+	public String elegirPalabra (String[] palabras) {
+		
+		return null;
+	}
 }
