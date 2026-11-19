@@ -10,4 +10,8 @@ public class JuegoAhorcado {
 		
 		return null;
 	}
+	
+	public void inicioAhorcado(String chooseWord) {
+		
+	}
 }
