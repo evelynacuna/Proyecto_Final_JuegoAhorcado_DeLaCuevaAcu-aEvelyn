@@ -8,4 +8,8 @@ public class Archivo {
 	public void llenarArchivo() {
 		
 	}
+	
+	public void borrarArchivo() {
+		
+	}
 }
