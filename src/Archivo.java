@@ -9,6 +9,12 @@ public class Archivo {
 		
 	}
 	
+	public String cargarPalabras() {
+		
+		return null;
+	}
+	
+	
 	public void borrarArchivo() {
 		
 	}
